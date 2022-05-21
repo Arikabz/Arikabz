@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Databases**
 
-- 👨‍💻 All of my projects are available at [https://ag-softwares.netlify.app/index_en.html](https://agsoftwarez.com)
+- 👨‍💻 All of my projects are available at [https://agsoftwarez.com](https://agsoftwarez.com)
 
 - 💬 Ask me about **Music Production, JavaScript**
 
