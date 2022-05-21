@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arturo</h1>
 <h3 align="center">A FullStack Developer and Musician</h3>
 
-<p align="left"> <a href="https://twitter.com/ag_softwares" target="blank"><img src="https://img.shields.io/twitter/follow/ag_softwares?logo=twitter&style=for-the-badge" alt="ag_softwares" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ag_softwarez" target="blank"><img src="https://img.shields.io/twitter/follow/ag_softwares?logo=twitter&style=for-the-badge" alt="ag_softwarez" /></a> </p>
 
 - 🔭 I’m currently working on [Business Website](https://gredsa-prueba.netlify.app)
 
@@ -11,17 +11,17 @@
 
 - 🤝 I’m looking for help with **Databases**
 
-- 👨‍💻 All of my projects are available at [https://ag-softwares.netlify.app/index_en.html](https://ag-softwares.netlify.app/index_en.html)
+- 👨‍💻 All of my projects are available at [https://ag-softwares.netlify.app/index_en.html](https://agsoftwarez.com)
 
 - 💬 Ask me about **Music Production, JavaScript**
 
-- 📫 How to reach me **https://twitter.com/AG_Softwares**
+- 📫 How to reach me **https://twitter.com/AG_Softwarez**
 
 - ⚡ Fun fact **I repair stuff!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ag_softwares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ag_softwares" height="30" width="40" /></a>
+<a href="https://twitter.com/ag_softwarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ag_softwarez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/agsoftwares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agsoftwares" height="30" width="40" /></a>
 </p>
 
