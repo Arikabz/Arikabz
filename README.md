@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript and drums.
 - 💞️ I’m looking to collaborate on web aplications and music!
 - 📫 LinkedIn:
-- https://www.linkedin.com/in/arturo-guevara-b3a95a230/
+- https://www.linkedin.com/in/agsoftwares
 - @AG_Softwares on twitter:
 - https://twitter.com/AG_Softwares
 
