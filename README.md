@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arturo</h1>
 <h3 align="center">A FullStack Developer and Musician</h3>
 
-<p align="left"> <a href="https://twitter.com/ag_softwarez" target="blank"><img src="https://img.shields.io/twitter/follow/ag_softwares?logo=twitter&style=for-the-badge" alt="ag_softwarez" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ag_softwarez" target="blank"><img src="https://img.shields.io/twitter/follow/ag_softwarez?logo=twitter&style=for-the-badge" alt="ag_softwarez" /></a> </p>
 
 - 🔭 I’m currently working on [Business Website](https://gredsa-prueba.netlify.app)
 
