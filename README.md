@@ -24,7 +24,7 @@
 
   - 📫 How to reach me **https://twitter.com/AG_Softwarez**
 
-  - ⚡ Fun fact **I make music! [soundcloud](https://soundcloud.com/arikabs)**
+  - ⚡ Fun fact **I make music! [SoundCloud](https://soundcloud.com/arikabs)**
 
 
 <h3 align="center">Connect with me:</h3>
