@@ -25,6 +25,107 @@
 
   - 🎵 Find my music on **[SoundCloud](https://soundcloud.com/arikabs)**
 
+<table bordercolor="#32CD32">
+<!--
+        <tr>
+            <td width="50%" valign="top">
+                <h3 align="center">Wu Wei</h3>
+                <br />
+                    <a target="_blank" href="#">
+                    <img src="#" width="100%"  alt="Wu Wei App"/>
+                </a>
+                <br />
+                <p align="center">
+                     <a href="https://github.com/moonlighter-dev/wu-wei/" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                    </a>
+                    <a href="https://wu-wei.netlify.app" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
+                    </a>
+                <p align="center">Practice management software for acupuncturists, massage therapists, and other CAM providers</p>
+            </td>
+            <td width="50%" valign="top">
+                <h3 align="center">Knotta POS</h3>
+                <br />
+                    <a target="_blank" href="*">
+                    <img src="#" width="100%"  alt="Knotta POS App"/>
+                </a>
+                <br />
+                <p align="center">
+                    <a href="https://github.com/moonlighter-dev/knotta-pos/" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                    </a>
+                    <a href="https://knottapos.netlify.app" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
+                    </a>
+                </p>
+                <p align="center">Point of Sale system with cash register, inventory management, and accounts receivable</p>
+            </td>
+        </tr>
+  -->
+        <tr>
+            <td width="50%" valign="top">
+                <h3 align="center">ListApp</h3>
+                <br />
+                    <a target="_blank" href="https://github.com/Arikabz/ListAppV1.0">
+                    <img src="https://github.com/Arikabz/ListAppV1.0/blob/main/ListApp.webp" height='100%'  alt="ListApp"/>
+                </a>
+                <br />
+                <p align="center">
+                    <a href="https://github.com/Arikabz/ListAppV1.0" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                    </a>
+                    <a href="https://e-list-app.herokuapp.com" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
+                    </a>
+                <p align="center">Web App, shareable collaborative list to keep track of items.</p>
+            </td>
+            <td width="50%" valign="top">
+                <h3 align="center">Tecno H2O</h3>
+                <br />
+                    <a target="_blank" href="https://tecnoh2o.com.mx">
+                    <img src="https://github.com/Arikabz/TecnoH2O/blob/main/agua.webp" alt='Tecno H2O Website'/>
+                </a>
+                <br />
+                <p align="center">
+                    <a href="https://tecnoh2o.com.mx" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
+                    </a>
+                </p>
+                <p align="center">Business Website for a Water Purifying company</p>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%" valign="top">
+                <h3 align="center">GREDSA</h3>
+                <br />
+                    <a target="_blank" href="https://gredsa.com.mx">
+                    <img src="https://github.com/Arikabz/GREDSA/raw/master/gredsa1.gif" width="100%"  alt="GREDSA Business Website"/>
+                </a>
+                <br />
+                <p align="center">
+                    <a href="https://gredsa.com.mx" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
+                    </a>
+                <p align="center">Business Website for a Real Estate company styled according to the client's specifications. </p>
+            </td>
+            <td width="50%" valign="top">
+                <h3 align="center">Professional Portfolio Website</h3>
+                <br />
+                    <a target="_blank" href="https://www.lucerozavala.com">
+                    <img src="https://github.com/Arikabz/Lucero/blob/master/assets/img/lucero1.gif" width="100%"  alt="Professional Portfolio"/>
+                </a>
+                <br />
+                <p align="center">
+                    <a href="https://www.lucerozavala.com" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
+                    </a>
+                </p>
+                <p align="center">Personal portfolio website for a client.</p>
+            </td>
+        </tr>
+    </table>
+
 
 
 <h3 align="center">Connect with me:</h3>
