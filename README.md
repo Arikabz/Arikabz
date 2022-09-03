@@ -2,7 +2,7 @@
 <h3 align="center">A FullStack Developer and Musician</h3>
 
 
-<div align='center' margin-bottom='5px'><img src="https://github-readme-streak-stats.herokuapp.com?user=Arikabz&theme=radical"/></div>
+<div align='center' margin-bottom='15px'><img src="https://github-readme-streak-stats.herokuapp.com?user=Arikabz&theme=radical"/></div>
 
 
 
@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **100 Hour Project**
 
-- 🤝 I’m looking for help with **Databases**
+- 🤝 I’m looking for help with **React.js**
 
 - 👨‍💻 All of my projects are available at [https://www.agsoftwarez.com](https://www.agsoftwarez.com)
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **https://twitter.com/AG_Softwarez**
 
-- ⚡ Fun fact **I repair stuff!**
+- ⚡ Fun fact **I make music! https://soundcloud.com/arikabs**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
