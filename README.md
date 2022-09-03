@@ -10,21 +10,21 @@
 
 
 
-  - 🔭 I’m currently working on [Business Website](https://gredsa-prueba.netlify.app)
+  - 🔭 I’m currently working on [100 Hours Project - PillApp]()
 
-  - 🌱 I’m currently learning **Node.js**
+  - 🌱 I’m currently learning **DS&A**
 
-  - 👯 I’m looking to collaborate on **100 Hour Project**
+  - 👯 I’m looking to collaborate on **Web Application Projects**
 
   - 🤝 I’m looking for help with **React.js**
 
-  - 👨‍💻 All of my projects are available at [https://www.agsoftwarez.com](https://www.agsoftwarez.com)
+  - 👨‍💻 All of my projects are available at my **[portfolio website](https://www.agsoftwarez.com)**
 
   - 💬 Ask me about **Music Production, JavaScript**
 
-  - 📫 How to reach me **https://twitter.com/AG_Softwarez**
+  - 📫 Reach me on  **[Twitter](https://twitter.com/AG_Softwarez)**
 
-  - ⚡ Fun fact **I make music! [SoundCloud](https://soundcloud.com/arikabs)**
+  - 🎵 Find my music on **[SoundCloud](https://soundcloud.com/arikabs)**
 
 
 <h3 align="center">Connect with me:</h3>
