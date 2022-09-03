@@ -2,7 +2,7 @@
 <h3 align="center">A FullStack Developer and Musician</h3>
 
 
-<div align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=Arikabz&theme=violet-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"/></div>
+<div align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=Arikabz&theme=radical"/></div>
 
 <div align='center'><img src="https://github-profile-trophy.vercel.app/?username=Arikabz&theme=radical"/></div>
 
