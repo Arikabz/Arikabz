@@ -4,7 +4,7 @@
 
 <div align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=Arikabz&theme=violet-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"/></div>
 
-<div align='center'><img src="[https://github-readme-streak-stats.herokuapp.com?user=Arikabz&theme=violet-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727](https://github-profile-trophy.vercel.app/?username=Arikabz&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)"/></div>
+<div align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=Arikabz&theme=violet-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727](https://github-profile-trophy.vercel.app/?username=Arikabz&theme=radical"/></div>
 
 
 <p align="left"> <a href="https://twitter.com/ag_softwarez" target="blank"><img src="https://img.shields.io/twitter/follow/ag_softwarez?logo=twitter&style=for-the-badge" alt="ag_softwarez" /></a> </p>
