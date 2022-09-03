@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://twitter.com/ag_softwarez" target="blank"><img src="https://img.shields.io/twitter/follow/ag_softwarez?logo=twitter&style=for-the-badge" alt="ag_softwarez" /></a> </p>
 
-<div alignt='center'>
+<ul alignt='center'>
 
 - 🔭 I’m currently working on [Business Website](https://gredsa-prueba.netlify.app)
 
@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact **I make music! https://soundcloud.com/arikabs**
   
-</div>
+</ul>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
