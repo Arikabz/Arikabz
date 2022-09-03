@@ -32,4 +32,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arikabz&theme=violet-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
 
-<div align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=Arikabz"/></div>
+<div align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=Arikabz&theme=violet-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"/></div>
