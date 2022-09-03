@@ -8,25 +8,24 @@
 
 <p align="center"> <a href="https://twitter.com/ag_softwarez" target="blank"><img src="https://img.shields.io/twitter/follow/ag_softwarez?logo=twitter&style=for-the-badge" alt="ag_softwarez" /></a> </p>
 
-<ul alignt='center'>
 
-  <li>🔭 I’m currently working on [Business Website](https://gredsa-prueba.netlify.app)</li>
 
-  <li> 🌱 I’m currently learning **Node.js**</li>
+  - 🔭 I’m currently working on [Business Website](https://gredsa-prueba.netlify.app)
 
-  <li>👯 I’m looking to collaborate on **100 Hour Project**</li>
+  - 🌱 I’m currently learning **Node.js**
 
-  <li> 🤝 I’m looking for help with **React.js**</li>
+  - 👯 I’m looking to collaborate on **100 Hour Project**
 
-  <li> 👨‍💻 All of my projects are available at [https://www.agsoftwarez.com](https://www.agsoftwarez.com) </li>
+  - 🤝 I’m looking for help with **React.js**
 
-  <li> 💬 Ask me about **Music Production, JavaScript**</li>
+  - 👨‍💻 All of my projects are available at [https://www.agsoftwarez.com](https://www.agsoftwarez.com)
 
-  <li> 📫 How to reach me **https://twitter.com/AG_Softwarez**</li>
+  - 💬 Ask me about **Music Production, JavaScript**
 
-  <li> ⚡ Fun fact **I make music! https://soundcloud.com/arikabs**</li>
-  
-</ul>
+  - 📫 How to reach me **https://twitter.com/AG_Softwarez**
+
+  - ⚡ Fun fact **I make music! https://soundcloud.com/arikabs**
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
