@@ -26,43 +26,6 @@
   - 🎵 Find my music on **[SoundCloud](https://soundcloud.com/arikabs)**
 
 <table bordercolor="#32CD32">
-<!--
-        <tr>
-            <td width="50%" valign="top">
-                <h3 align="center">Wu Wei</h3>
-                <br />
-                    <a target="_blank" href="#">
-                    <img src="#" width="100%"  alt="Wu Wei App"/>
-                </a>
-                <br />
-                <p align="center">
-                     <a href="https://github.com/moonlighter-dev/wu-wei/" target="_blank">
-                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-                    </a>
-                    <a href="https://wu-wei.netlify.app" target="_blank">
-                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
-                    </a>
-                <p align="center">Practice management software for acupuncturists, massage therapists, and other CAM providers</p>
-            </td>
-            <td width="50%" valign="top">
-                <h3 align="center">Knotta POS</h3>
-                <br />
-                    <a target="_blank" href="*">
-                    <img src="#" width="100%"  alt="Knotta POS App"/>
-                </a>
-                <br />
-                <p align="center">
-                    <a href="https://github.com/moonlighter-dev/knotta-pos/" target="_blank">
-                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-                    </a>
-                    <a href="https://knottapos.netlify.app" target="_blank">
-                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
-                    </a>
-                </p>
-                <p align="center">Point of Sale system with cash register, inventory management, and accounts receivable</p>
-            </td>
-        </tr>
-  -->
         <tr>
             <td width="50%" valign="top">
                 <h3 align="center">ListApp</h3>
@@ -78,7 +41,7 @@
                     <a href="https://e-list-app.herokuapp.com" target="_blank">
                         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
                     </a>
-                <p align="center">Web App, shareable collaborative list to keep track of items.</p>
+                <p align="center">Fullstack Web App, shareable collaborative list to keep track of items.</p>
             </td>
             <td width="50%" valign="top">
                 <h3 align="center">Tecno H2O</h3>
