@@ -2,7 +2,7 @@
 <h3 align="center">A FullStack Developer and Musician</h3>
 
 
-<div align='center' margin-bottom='15px'><img src="https://github-readme-streak-stats.herokuapp.com?user=Arikabz&theme=radical"/></div>
+<div align='center' margin-bottom='20px'><img src="https://github-readme-streak-stats.herokuapp.com?user=Arikabz&theme=radical"/></div>
 
 
 
@@ -10,21 +10,21 @@
 
 <ul alignt='center'>
 
-- 🔭 I’m currently working on [Business Website](https://gredsa-prueba.netlify.app)
+  <li>🔭 I’m currently working on [Business Website](https://gredsa-prueba.netlify.app)</li>
 
-- 🌱 I’m currently learning **Node.js**
+  <li> 🌱 I’m currently learning **Node.js**</li>
 
-- 👯 I’m looking to collaborate on **100 Hour Project**
+  <li>👯 I’m looking to collaborate on **100 Hour Project**</li>
 
-- 🤝 I’m looking for help with **React.js**
+  <li> 🤝 I’m looking for help with **React.js**</li>
 
-- 👨‍💻 All of my projects are available at [https://www.agsoftwarez.com](https://www.agsoftwarez.com)
+  <li> 👨‍💻 All of my projects are available at [https://www.agsoftwarez.com](https://www.agsoftwarez.com) </li>
 
-- 💬 Ask me about **Music Production, JavaScript**
+  <li> 💬 Ask me about **Music Production, JavaScript**</li>
 
-- 📫 How to reach me **https://twitter.com/AG_Softwarez**
+  <li> 📫 How to reach me **https://twitter.com/AG_Softwarez**</li>
 
-- ⚡ Fun fact **I make music! https://soundcloud.com/arikabs**
+  <li> ⚡ Fun fact **I make music! https://soundcloud.com/arikabs**</li>
   
 </ul>
 
