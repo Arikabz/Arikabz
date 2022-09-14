@@ -60,17 +60,17 @@
         </tr>
         <tr>
             <td width="50%" valign="top">
-                <h3 align="center">GREDSA</h3>
+                <h3 align="center">Game Tracker App</h3>
                 <br />
-                    <a target="_blank" href="https://gredsa.com.mx">
-                    <img src="https://github.com/Arikabz/GREDSA/raw/master/gredsa1.gif" width="100%"  alt="GREDSA Business Website"/>
+                    <a target="_blank" href="https://game-tracker-100devs.herokuapp.com/">
+                    <img src="https://github.com/d-herz/todo-mvc-auth-local/blob/main/game-tracker.gif" width="100%"  alt="Game Tracker App"/>
                 </a>
                 <br />
                 <p align="center">
-                    <a href="https://gredsa.com.mx" target="_blank">
-                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
+                    <a href="https://github.com/d-herz/todo-mvc-auth-local" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
                     </a>
-                <p align="center">Business Website for a Real Estate company styled according to the client's specifications. </p>
+                <p align="center">Steam Game Stats tracker fullstack app using Steam API</p>
             </td>
             <td width="50%" valign="top">
                 <h3 align="center">Professional Portfolio Website</h3>
