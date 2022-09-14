@@ -28,6 +28,19 @@
 <table bordercolor="#32CD32">
         <tr>
             <td width="50%" valign="top">
+                <h3 align="center">Game Tracker App</h3>
+                <br />
+                    <a target="_blank" href="https://game-tracker-100devs.herokuapp.com/">
+                    <img src="https://github.com/d-herz/todo-mvc-auth-local/blob/main/game-tracker.gif" width="100%"  alt="Game Tracker App"/>
+                </a>
+                <br />
+                <p align="center">
+                    <a href="https://github.com/d-herz/todo-mvc-auth-local" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                    </a>
+                <p align="center">Steam Game Stats tracker fullstack app using Steam API</p>
+            </td>
+            <td width="50%" valign="top">
                 <h3 align="center">ListApp</h3>
                 <br />
                     <a target="_blank" href="https://github.com/Arikabz/ListAppV1.0">
@@ -43,6 +56,8 @@
                     </a>
                 <p align="center">Fullstack Web App, shareable collaborative list to keep track of items.</p>
             </td>
+        </tr>
+        <tr>
             <td width="50%" valign="top">
                 <h3 align="center">Tecno H2O</h3>
                 <br />
@@ -56,21 +71,6 @@
                     </a>
                 </p>
                 <p align="center">Business Website for a Water Purifying company</p>
-            </td>
-        </tr>
-        <tr>
-            <td width="50%" valign="top">
-                <h3 align="center">Game Tracker App</h3>
-                <br />
-                    <a target="_blank" href="https://game-tracker-100devs.herokuapp.com/">
-                    <img src="https://github.com/d-herz/todo-mvc-auth-local/blob/main/game-tracker.gif" width="100%"  alt="Game Tracker App"/>
-                </a>
-                <br />
-                <p align="center">
-                    <a href="https://github.com/d-herz/todo-mvc-auth-local" target="_blank">
-                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-                    </a>
-                <p align="center">Steam Game Stats tracker fullstack app using Steam API</p>
             </td>
             <td width="50%" valign="top">
                 <h3 align="center">Professional Portfolio Website</h3>
