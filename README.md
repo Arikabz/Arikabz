@@ -9,7 +9,7 @@
 
 
 
-  - 🔭 I’m currently working on [100 Hours Project - PillApp]()
+  - 🔭 I’m currently working on [100 Hours Project - SoundShare](https://github.com/Arikabz/soundSharev0.1)
 
   - 🌱 I’m currently learning **DS&A**
 
