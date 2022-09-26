@@ -28,6 +28,38 @@
 <table bordercolor="#32CD32">
         <tr>
             <td width="50%" valign="top">
+                <h3 align="center">SoundShare | Sound Sharing Platform!</h3>
+                <br />
+                    <a target="_blank" href="https://soundshare.up.railway.app">
+                    <img src="https://github.com/Arikabz/soundSharev0.1/blob/main/SoundShareV0.1.0.gif" alt='SoundShare FullStack App'/>
+                </a>
+                <br />
+                <p align="center">
+                    <a href="https://github.com/Arikabz/soundSharev0.1" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                    </a>
+                    <a href="https://soundshare.up.railway.app" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
+                    </a>
+                </p>
+                <p align="center">FullStack Web Application, social-media like platform for sharing audio files with a community of creatives!</p>
+            </td>
+            <td width="50%" valign="top">
+                <h3 align="center">Professional Portfolio Website</h3>
+                <br />
+                    <a target="_blank" href="https://www.lucerozavala.com">
+                    <img src="https://github.com/Arikabz/Lucero/blob/master/assets/img/lucero1.gif" height='100%'  alt="Professional Portfolio"/>
+                </a>
+                <br />
+                <p align="center">
+                    <a href="https://www.lucerozavala.com" target="_blank">
+                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
+                    </a>
+                <p align="center">Personal portfolio website for a client.</p>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%" valign="top">
                 <h3 align="center">Game Tracker App</h3>
                 <br />
                     <a target="_blank" href="https://game-tracker-100devs.herokuapp.com/">
@@ -53,38 +85,6 @@
                     </a>
                 </p>
                 <p align="center">Business Website for a Water Purifying company</p>
-            </td>
-        </tr>
-        <tr>
-            <td width="50%" valign="top">
-                <h3 align="center">SoundShare</h3>
-                <br />
-                    <a target="_blank" href="https://soundshare.up.railway.app">
-                    <img src="https://github.com/Arikabz/soundSharev0.1/blob/main/SoundShareV0.1.0.gif" alt='SoundShare FullStack App'/>
-                </a>
-                <br />
-                <p align="center">
-                    <a href="https://github.com/Arikabz/soundSharev0.1" target="_blank">
-                        <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-                    </a>
-                    <a href="https://soundshare.up.railway.app" target="_blank">
-                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
-                    </a>
-                </p>
-                <p align="center">Business Website for a Water Purifying company</p>
-            </td>
-            <td width="50%" valign="top">
-                <h3 align="center">Professional Portfolio Website</h3>
-                <br />
-                    <a target="_blank" href="https://www.lucerozavala.com">
-                    <img src="https://github.com/Arikabz/Lucero/blob/master/assets/img/lucero1.gif" height='100%'  alt="Professional Portfolio"/>
-                </a>
-                <br />
-                <p align="center">
-                    <a href="https://www.lucerozavala.com" target="_blank">
-                        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
-                    </a>
-                <p align="center">Personal portfolio website for a client.</p>
             </td>
         </tr>
     </table>
