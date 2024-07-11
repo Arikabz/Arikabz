@@ -25,6 +25,7 @@
 
   - 🎵 Find my music on **[SoundCloud](https://soundcloud.com/arikabs)**
 
+<---
 <table bordercolor="#32CD32">
         <tr>
             <td width="50%" valign="top">
@@ -89,7 +90,7 @@
         </tr>
     </table>
 
-
+--->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
