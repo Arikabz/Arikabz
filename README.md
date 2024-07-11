@@ -9,7 +9,7 @@
 
 
 
-  - 🔭 I’m currently working on [Private Web Application]
+  - 🔭 I’m currently working on **Private Web Application**
 
   - 🌱 I’m currently learning **Rust**
 
