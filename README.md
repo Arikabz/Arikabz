@@ -9,17 +9,17 @@
 
 
 
-  - 🔭 I’m currently working on [100 Hours Project - SoundShare](https://github.com/Arikabz/soundSharev0.1)
+  - 🔭 I’m currently working on [Private Web Application]
 
-  - 🌱 I’m currently learning **DS&A**
+  - 🌱 I’m currently learning **Rust**
 
-  - 👯 I’m looking to collaborate on **Web Application Projects**
+  - 👯 I’m looking to collaborate on **Rust Projects**
 
-  - 🤝 I’m looking for help with **React.js**
+  - 🤝 I’m looking for help with **Rust**
 
-  - 👨‍💻 All of my projects are available at my **[portfolio website](https://www.agsoftwarez.com)**
+  - 👨‍💻 Some of my projects are available at my **[portfolio website](https://www.agsoftwarez.com)**
 
-  - 💬 Ask me about **Music Production, JavaScript**
+  - 💬 Ask me about **Music Production, TypeScript, Next.js**
 
   - 📫 Reach me on  **[Twitter](https://twitter.com/AG_Softwarez)**
 
