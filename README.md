@@ -98,8 +98,8 @@
 
 
 <h3 align="center">Some Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arikabz&theme=radical&show_icons=true&locale=en&layout=compact" alt="arikabz" /></p>
-<div margin-bottom='20px'><img src="https://github-readme-streak-stats.herokuapp.com?user=Arikabz&theme=radical"/></div>
+<p display='inline'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arikabz&theme=radical&show_icons=true&locale=en&layout=compact" alt="arikabz" /></p>
+<div display='inline' margin-bottom='20px'><img src="https://github-readme-streak-stats.herokuapp.com?user=Arikabz&theme=radical"/></div>
 <div align='center'><img src="https://github-profile-trophy.vercel.app/?username=Arikabz&theme=radical"/></div>
 
 
