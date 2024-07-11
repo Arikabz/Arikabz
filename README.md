@@ -25,7 +25,7 @@
 
   - 🎵 Find my music on **[SoundCloud](https://soundcloud.com/arikabs)**
 
-<---
+<!---
 <table bordercolor="#32CD32">
         <tr>
             <td width="50%" valign="top">
