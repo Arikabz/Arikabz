@@ -25,11 +25,7 @@
 
   - 🎵 Find my music on **[SoundCloud](https://soundcloud.com/arikabs)**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/ag_softwarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ag_softwarez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/agsoftwarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agsoftwarez" height="30" width="40" /></a>
-</p>
+
 <!---
 <table bordercolor="#32CD32">
         <tr>
@@ -105,3 +101,10 @@
 <p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arikabz&theme=radical&show_icons=true&locale=en&layout=compact" alt="arikabz" /></p>
 <div align='center' margin-bottom='20px'><img src="https://github-readme-streak-stats.herokuapp.com?user=Arikabz&theme=radical"/></div>
 <div align='center'><img src="https://github-profile-trophy.vercel.app/?username=Arikabz&theme=radical"/></div>
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/ag_softwarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ag_softwarez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/agsoftwarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agsoftwarez" height="30" width="40" /></a>
+</p>
